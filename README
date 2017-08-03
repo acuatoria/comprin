@@ -1,0 +1,5 @@
+Automated script to buy on Amazon at desired price
+
+You need to configure parameters on main.py: email, password and article url.
+Selenium installed is a must.
+Execute python main.py to start the program.
